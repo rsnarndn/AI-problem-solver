@@ -1,0 +1,6 @@
+AI problem solver.py
+RoBERTa BM25 should be imported
+Ollama should be imported
+run deepseek r1 1.5b qwen distill q8_0 while executing the program via ollama in command prompt
+Should be a knowledge directory like Physics_knowledge which should contain other sub folders like Quantum Mechanics,Mathematical Physics etc, 
+And every folder should contain txt files like Oscillation.txt
